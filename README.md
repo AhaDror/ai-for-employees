@@ -28,6 +28,9 @@
 >
 > -- I asked the chat to describe itself
 
+<a href="https://app.writesonic.com/" target="_blank">Writesonic</a>
+>Writesonic for Writers. Use the AI Writer to create long-form blogs and articles; the Sonic Editor (an enhanced version of Google Docs) to write sales emails, essays, reports, and even ebooks. Moreover, you can polish your content to perfection using our AI-driven editing tools, and create images from text prompts.
+
 <a name="writing"></a>
 ### Writing
 
